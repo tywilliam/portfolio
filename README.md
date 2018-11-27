@@ -1,5 +1,6 @@
 # Portfolio Project
 
+![](http://www.mediafire.com/convkey/2696/479197tgnb7zo5wzg.jpg?size_id=6)
 My personal website on the internet for others to see.
 
 ## Getting Started
